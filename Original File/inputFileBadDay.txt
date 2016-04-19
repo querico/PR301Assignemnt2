@@ -1,0 +1,6 @@
+A001 M 22 183 Normal 186
+B002 W 32 299 Normal 390
+C003 M 07 390 Overweight 290
+D004 F 90 2O Overweight 188
+E005 M 55 077 Normal 99
+F6 F 47 228 Underweight 245631313
